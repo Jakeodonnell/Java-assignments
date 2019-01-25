@@ -1,0 +1,77 @@
+(2018-04-26 15:52:55) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:52:55) Server closing
+(2018-04-26 15:52:55) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:52:55) Server closing
+(2018-04-26 15:52:55) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:52:55) Server closing
+(2018-04-26 15:52:55) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:52:55) Server closing
+(2018-04-26 15:52:55) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:55:56) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:59:02) Starting Server: 0.0.0.0:3300
+(2018-04-26 15:59:02) 1 has connected (127.0.0.1:59673)
+(2018-04-26 15:59:02) 1 has disconnected (127.0.0.1:59673)
+(2018-04-26 15:59:02) 1 has connected (127.0.0.1:59697)
+(2018-04-26 15:59:02) 1 has disconnected (127.0.0.1:59697)
+(2018-04-26 15:59:02) 1 has connected (127.0.0.1:59710)
+(2018-04-26 15:59:02) 1 has disconnected (127.0.0.1:59710)
+(2018-04-26 15:59:02) 1 has connected (127.0.0.1:59772)
+(2018-04-26 15:59:02) 1 has disconnected (127.0.0.1:59772)
+(2018-04-26 15:59:02) pelle has connected (127.0.0.1:59790)
+(2018-04-27 11:40:41) Starting Server: 0.0.0.0:3300
+(2018-04-27 11:40:41) 1 has connected (127.0.0.1:61819)
+(2018-04-27 11:40:41) 1 has disconnected (127.0.0.1:61819)
+(2018-04-27 11:40:41) Server closing
+(2018-04-27 11:52:27) Starting Server: 0.0.0.0:3300
+(2018-04-27 11:52:27) 1 has connected (127.0.0.1:61910)
+(2018-04-27 11:52:27) 1 has disconnected (127.0.0.1:61910)
+(2018-04-27 11:52:27) 1 has connected (127.0.0.1:61915)
+(2018-04-27 11:52:27) 1 has disconnected (127.0.0.1:61915)
+(2018-04-27 11:52:27) Server closing
+(2018-04-27 13:36:30) Starting Server: 0.0.0.0:3300
+(2018-04-27 13:36:30) 1 has connected (127.0.0.1:62575)
+(2018-04-27 13:36:30) 2 has connected (127.0.0.1:62580)
+(2018-04-27 13:36:30) Sender: 1 Receivers: 2 Text: hej Image: null Delivered: null Received: null
+(2018-04-27 13:36:30) 2 has disconnected (127.0.0.1:62580)
+(2018-04-27 13:36:30) 1 has disconnected (127.0.0.1:62575)
+(2018-04-27 13:36:30) Server closing
+(2018-04-27 13:38:58) Starting Server: 0.0.0.0:3300
+(2018-04-27 13:38:58) 1 has connected (127.0.0.1:62596)
+(2018-04-27 13:38:58) 2 has connected (127.0.0.1:62597)
+(2018-04-27 13:38:58) 3 has connected (127.0.0.1:62602)
+(2018-04-27 13:38:58) 2 has disconnected (127.0.0.1:62597)
+(2018-04-27 13:38:58) null has disconnected (127.0.0.1:62603)
+(2018-04-27 13:38:58) 1 has disconnected (127.0.0.1:62596)
+(2018-04-27 13:38:58) null has disconnected (127.0.0.1:62604)
+(2018-04-27 13:38:58) 3 has disconnected (127.0.0.1:62602)
+(2018-04-27 13:38:58) null has disconnected (127.0.0.1:62605)
+(2018-04-27 13:38:58) Server closing
+(2018-04-27 14:53:25) Starting Server: 0.0.0.0:3300
+(2018-04-27 14:53:25) 1 has connected (127.0.0.1:63219)
+(2018-04-27 14:53:25) 1 has disconnected (127.0.0.1:63219)
+(2018-04-27 14:53:25) 2 has connected (127.0.0.1:63226)
+(2018-04-27 14:53:25) 2 has disconnected (127.0.0.1:63226)
+(2018-04-27 14:56:21) Starting Server: 0.0.0.0:3300
+(2018-04-27 14:56:21) 1 has connected (127.0.0.1:63248)
+(2018-04-27 14:56:21) 1 has disconnected (127.0.0.1:63248)
+(2018-04-27 14:56:21) Server closing
+(2018-05-02 13:06:07) Starting Server: 0.0.0.0:3300
+(2018-05-02 13:06:07) elin has connected (127.0.0.1:50934)
+(2018-05-02 13:06:07) pelle has connected (127.0.0.1:50935)
+(2018-05-02 13:06:07) adam has connected (127.0.0.1:50936)
+(2018-05-02 13:06:07) orvar has connected (127.0.0.1:50937)
+(2018-05-02 13:06:07) (resources.Message@40b948df) Sender: elin Receivers: pelle, adam, orvar Text: hej Image: null Delivered: null Received: null
+(2018-05-02 13:06:07) (resources.Message@6418f6f2) Sender: elin Receivers: orvar Text: dettta fungerar (endast till orvar) Image: null Delivered: null Received: null
+(2018-05-02 13:06:07) (resources.Message@97eb81b) Sender: elin Receivers: pelle Text: endast till pelle Image: null Delivered: null Received: null
+(2018-05-02 13:06:07) (resources.Message@7c8b4770) Sender: elin Receivers: adam Text: endast till adam Image: null Delivered: null Received: null
+(2018-05-02 13:06:07) (resources.Message@3e755406) Sender: elin Receivers: adam Text:  Image: C:\Users\Eric Grevillius\Pictures\p5_simpledice.PNG Delivered: null Received: null
+(2018-05-02 13:06:07) adam has disconnected (127.0.0.1:50936)
+(2018-05-02 13:06:07) elin has disconnected (127.0.0.1:50934)
+(2018-05-02 13:06:07) pelle has disconnected (127.0.0.1:50935)
+(2018-05-02 13:06:07) orvar has disconnected (127.0.0.1:50937)
+(2018-05-02 13:06:07) Server closing
+(2018-05-02 13:22:31) Starting Server: 0.0.0.0:3300
+(2018-05-02 13:22:31) elin has connected (127.0.0.1:50956)
+(2018-05-02 13:22:31) pelle has connected (127.0.0.1:50957)
+(2018-05-02 13:22:31) (resources.Message@2319258f) Sender: elin Receivers: pelle, elin Text: hur blir detta? Image: null Delivered: 2018-05-02 13:23:23 Received: 2018-05-02 13:23:23
+(2018-05-02 13:22:31) (resources.Message@2319258f) Sender: elin Receivers: pelle, elin Text: hur blir detta? Image: null Delivered: 2018-05-02 13:23:23 Received: 2018-05-02 13:23:23
